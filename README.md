@@ -1,0 +1,2 @@
+# Understanding-Python-with-Project-impementaion
+Python language is most widely programming language used by research community. Python is much popular because it is highly productive as compared to other programming languages. It is more concise and expressive language and requires less time, effort, and source code to perform the same operations. Here, I will take you through some popular Python projects with source code
