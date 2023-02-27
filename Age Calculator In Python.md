@@ -6,7 +6,7 @@ from datetime import date
 
 # 👉 Given Date of Birth (Year, month, date)
 
-'''python
+```python
 year_of_birth = 1995
 month_of_birth = 1
 day_of_birth = 1
@@ -64,3 +64,4 @@ Output:
 Today: 2023-01-26
 DOB: 1995-01-01
 Age: 28 years, 0 months, 25 days
+```
